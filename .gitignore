@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Environment config
+.env
+
+# Vector DBs / embeddings / models
+data/
+*.faiss
+*.pkl
+*.npy
+*.bin
+*.h5
+*.json
+*.log
+
+# LangChain cache
+lc-*
+
+# Streamlit config
+.streamlit/
+
+# MacOS files
+.DS_Store
