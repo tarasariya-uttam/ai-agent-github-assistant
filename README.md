@@ -1,4 +1,4 @@
-# GitHub AI Agent – Repository Assistant 🔍🤖
+# GitHub AI Chatbot – Repository Assistant 🔍🤖
 
 An intelligent assistant that lets you **chat with any public GitHub repo** using GPT-4. Ask about structure, setup steps, important modules, recent changes, or anything else — powered by **LangChain**, **RAG**, and **FAISS**.
 
