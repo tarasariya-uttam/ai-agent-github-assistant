@@ -2,6 +2,9 @@
 
 An intelligent assistant that lets you **chat with any public GitHub repo** using GPT-4. Ask about structure, setup steps, important modules, recent changes, or anything else — powered by **LangChain**, **RAG**, and **FAISS**.
 
+
+> 🎥 [Watch Demo Video](https://drive.google.com/file/d/1rBcFQXjKPL8AME5DNAXZwzywzAW4Fz_p/view)
+
 ---
 
 ## 🚀 Use Cases
